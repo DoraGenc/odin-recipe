@@ -1,6 +1,6 @@
 ##### odin-recipe
 #
-### In this repository, you will not only discover a delicious new recipe but also see how much progress I have made in mastering HTML and Git skills. (✧∀✧)/
+### In this repository, you will not only discover a delicious new recipe but also see how much progress I have made in learning HTML and Git skills. (✧∀✧)/
 # You will learn three recipes, including an appetizer, a main course and a dessert! 
 #
 #
